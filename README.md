@@ -68,10 +68,6 @@ Credit Card Payment Template from [here](https://bootsnipp.com/snippets/r1jz).
 
 Order Receipt Template from [here](https://bootsnipp.com/snippets/Pb15).
 
+![Screenshot (25)](https://user-images.githubusercontent.com/74101435/120803013-b4748700-c560-11eb-8b1f-afe90f27b6ae.png)
 
-<img
-src=“C:\Users\Aishwarya manjalekar\Pictures\Screenshots/Screenshot (25).png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+
