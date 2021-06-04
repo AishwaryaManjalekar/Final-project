@@ -67,3 +67,11 @@ Get the starter template used in the project from [here](https://github.com/Blac
 Credit Card Payment Template from [here](https://bootsnipp.com/snippets/r1jz).
 
 Order Receipt Template from [here](https://bootsnipp.com/snippets/Pb15).
+
+
+<img
+src=“C:\Users\Aishwarya manjalekar\Pictures\Screenshots/Screenshot (25).png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
