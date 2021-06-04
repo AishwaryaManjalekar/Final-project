@@ -27,34 +27,6 @@
 | Remove a Item | &#10004; | Ability of Remove a Item from the Cart |
 | Checkout | &#10004; | Ability to Checkout |
 
-
-## How to use this API
-- [Authentication](#authentication)
-    - [Customer](#customer)
-        - [Customer Login](#customer-login)
-    - [Admin](#admin)
-        - [Admin Login](#admin-login)
-- [Products](#products)
-    - [Get list of products](#get-list-of-products)
-    - [Get product details](#get-product-details)
-    - [Create product](#create-product)
-    - [Update product](#update-product)
-    - [Delete product](#delete-product)
-
-- [Categories](#products)
-    - [Get list of categories](#get-list-of-categories)
-    - [Get category details](#get-category-details)
-    - [Create category](#create-category)
-    - [Update category](#update-category)
-    - [Delete category](#delete-category)
-    
-- [Users](#users)
-    - [Get list of users](#get-list-of-users)
-    - [Get user details](#get-user-details)
-    - [Create user](#create-user)
-    - [Update user](#update-user)
-    - [Delete user](#delete-user)
-
 # eCommerce
 
 **eCommerce** it's an open source software made to create an easy and simple "Shopping" website.
