@@ -60,6 +60,15 @@ Spring MVC is the primary web framework built on the Servlet API. It is build on
 ## Server used:
 Tomcat v8.5 Server at localhost
 
+## DataBase Connectivity
+
+driver : org.h2.Driver.
+
+url : jdbc:h2:tcp://localhost/~/ECOMMERCE.
+
+username : sa.
+
+password.
 
 ## Frontend BootStrap Templete
 Get the starter template used in the project from [here](https://github.com/BlackrockDigital/startbootstrap-shop-homepage/archive/v3.3.7.zip).
