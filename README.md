@@ -37,9 +37,9 @@ The Onlineshop is a virtual store on the Internet where customers can browse the
 
 
 ## Frontend:
-*Bootstrap*
-*HTML*
-*CSS*
+1.*Bootstrap*
+2.*HTML*
+3.*CSS*
 
 
 ## Documentation
