@@ -55,3 +55,15 @@ The Onlineshop is a virtual store on the Internet where customers can browse the
 ## Web Framework
 Spring MVC is the primary web framework built on the Servlet API. It is build on the popular MVC design pattern. MVC (Model-View-Controller) is a software architecture pattern, which separates application into three areas: model, view, and controller. The model represents a Java object carrying data. The view represents the visualization of the data that the model contains. The controller controls the data flow into model object and updates the view when the data changes. It separates the view and model.
 
+
+
+## Server used:
+Tomcat v8.5 Server at localhost
+
+
+## Frontend BootStrap Templete
+Get the starter template used in the project from [here](https://github.com/BlackrockDigital/startbootstrap-shop-homepage/archive/v3.3.7.zip).
+
+Credit Card Payment Template from [here](https://bootsnipp.com/snippets/r1jz).
+
+Order Receipt Template from [here](https://bootsnipp.com/snippets/Pb15).
