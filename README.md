@@ -34,7 +34,13 @@ The Onlineshop is a virtual store on the Internet where customers can browse the
 # eCommerce
 
 **eCommerce** it's an open source software made to create an easy and simple "Shopping" website.
-#Frontend
+
+
+## Frontend:
+*Bootstrap*
+*HTML*
+*CSS*
+
 
 ## Documentation
 
