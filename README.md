@@ -13,8 +13,8 @@
 | List Products | &#10004; | Ability of List Products |
 | Edit a Product | &#10004; | Ability of Edit a Product |
 | Delete a Product | &#10004; | Ability of Delete a Product |
-| Stock | &#10004; | Ability of Update the Stock |
-| Stock History | &#10004; | Ability to see the Stock History |
+| Customer | &#10004; | Ability of Check if exists |
+| Customer address | &#10004; | Ability to check if already exist |
 
 <b>Purchase Features</b>
 
