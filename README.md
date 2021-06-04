@@ -29,17 +29,12 @@
 
 # eCommerce
 
-**eCommerce** it's an open source (test scenario) software made to create a easy and simple "Shop" API, where you have two micro services, one the **Products API** that stores and handles everything Related to Stock and Products. And the **Purchase API** where you can create orders (cart's) and checkout items.
-
-The purpose of this repository it's for education and test. But the code it's being coded in a proper way.
+**eCommerce** it's an open source software made to create an easy and simple "Shopping" website.
 
 ## Documentation
 
 **eCommerce** has a full API documentation made with [Swagger](https://swagger.io), you can check it by accessing [this](http://santoro.pw/eCommerce) link.
 
-If you have any **Issue** or bug you can submit a new Issue by accessing [this](issues/) link.
-
-If you want to **Contribute** you can submit a Pull Request, remember to READ the [Contributing Guide](CONTRIBUTING.md)
 
 ## Installation
 
